@@ -1,4 +1,4 @@
-# Kintsugimigration-scripts
+# Kintsugi-migration-scripts
 
 ## Overview
 This repository contains scripts to migrate repositories from Gitea to GitHub.
