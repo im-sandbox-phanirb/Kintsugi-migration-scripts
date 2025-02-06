@@ -42,7 +42,7 @@ fi
 # Set the new remote URL for GitHub
 log "Setting remote URL for GitHub repository ${GITHUB_ORG}/${GITEA_REPO}"
 echo "url: https://sandbox.kintsugi.ai/${GITHUB_ORG}/${GITEA_REPO}.git"
-git remote set-url origin https://sandbox.kintsugi.ai/${GITHUB_ORG}/${GITEA_REPO}.git
+git remote set-url origin https://${GITHUB_TOKEN}@sandbox.kintsugi.ai/${GITHUB_ORG}/${GITEA_REPO}.git
 
 # Remove pull request refs
 log "Removing pull request refs"
