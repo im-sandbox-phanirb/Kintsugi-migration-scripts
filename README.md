@@ -8,6 +8,9 @@ This repository contains comprehensive documentation for GitHub administration, 
 - [Organization Settings](#organization-settings)
 - [Enterprise Administration](#enterprise-administration)
 - [User Settings](#user-settings)
+- [Changing Password](#changing-password)
+- [Managing users in the GitHub Enterprise server](#managing-users-in-the-github-enterprise-server)
+- [Raising GitHub support Ticket](#raising-github-support-ticket)
 
 ## Repository Settings
 
@@ -56,6 +59,29 @@ Documentation for user-specific settings:
 | [GitHub Handle Options](docs/GITHUB_HANDLE_OPTION.md) | Understanding the profile menu options |
 
 ---
+
+## Changing Password
+
+Documentation for Password changing:
+
+| Document | Description |
+| -------- | ----------- |
+| [Changing Password](docs/CHANGING_PASSWORD.md) | Changing all password for management console and user |
+
+## Managing users in the GitHub Enterprise server
+
+Documenttion for Managing users to the GitHub Enterprise server
+
+| Document | Description |
+| -------- | ----------- |
+| [Managing users](docs/ADDING_REMOVING_USERS.md) | Adding and Removing users to the GitHub Enterprise server |
+
+## Raising GitHub support Ticket
+Documentation for Accesing GitHub support ticket:
+
+| Document | Description |
+| -------- | ----------- |
+| [Raising support ticket](docs/SUPPORT_TICKET.md) | Changing all password for management console and user |
 
 ## Contributing
 
