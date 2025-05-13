@@ -20,7 +20,7 @@ Access site admin to invite member to enterprise server
 - In the upper-right corner of GitHub, select your profile photo, then click  Your organizations.
 - Click the name of your organization.
 - Under your organization name, click 🧍People.
-![People](image.png)
+![People](Images/image.png)
 - Click `Add member`.
 
 - In the search field, type the username, full name, or email address of the person you want to invite and click `Add`.
@@ -41,13 +41,13 @@ Access site admin to invite member to enterprise server
 - If you're not already on the "Site admin" page, in the upper-left corner, click `Site admin`.
 - Under "Search users, organizations, teams, repositories, gists, and applications", type the name of the user in the text field.
 - To the right of text field, click `Search`.
-![Search](image-1.png)
+![Search](Images/image-1.png)
 - If an exact account name match isn't found, under "Search results – Accounts", in the "Fuzzy matches" section, click the name of the user you want to manage.
-![User-search](image-2.png)
+![User-search](Images/image-2.png)
 - Review the user details in the site admin page to confirm you have identified the correct user.
-![Site-user](image-3.png)
+![Site-user](Images/image-3.png)
 - In the upper-right corner of the page, click ⚙️ Admin.
-![Settings](image-4.png)
+![Settings](Images/image-4.png)
 - Under "Delete account," in the "Danger Zone" section, click `Delete this account`.
 In the "Delete account" dialog box, under "Make sure you want to do this", review the changes. To confirm, enter the username of the account to be deleted.
 Click `Delete this account`.
@@ -56,9 +56,9 @@ Click `Delete this account`.
 - In the upper-right corner of GitHub, select your profile photo, then click 🏢 `Your organizations`.
 - Click the name of your organization.
 - Under your organization name, click🧍`People`.
-![People](image-5.png)
+![People](Images/image-5.png)
 - Select the member or members you'd like to remove from the organization.
-![members](image-6.png)
+![members](Images/image-6.png)
 - Above the list of members, select the `X members selected...` dropdown menu, and click `Remove from organization`.
-![Selected_members](image-7.png)
+![Selected_members](Images/image-7.png)
 - Review the member or members who will be removed from the organization, then click `Remove members`.
