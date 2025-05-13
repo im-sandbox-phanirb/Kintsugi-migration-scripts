@@ -37,7 +37,7 @@
 - If you have created multiple Management Console user accounts, select **Root site admin** or **Management Console user**.
 - Type your Management Console credentials. Then click **Continue**.
 - In the top navigation bar, click **Support**.
-![Support-ticket](image-8.png)
+![Support-ticket](Images/image-8.png)
 - Choose one of the following options:
 
     - To sign in with your GitHub account, click Sign in with GitHub and fill out the form
